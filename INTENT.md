@@ -1,4 +1,4 @@
-Licensing Intent
+# Licensing Intent
 
 The intent is that this software and documentation ("Project") should be treated as if it is licensed under the license associated with the Project ("License") in the LICENSE.md file. However, because we are part of the United States (U.S.) Federal Government, it is not that simple.
 

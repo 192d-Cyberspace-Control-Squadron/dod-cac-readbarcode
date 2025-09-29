@@ -4,7 +4,7 @@
 
 ## Signed-off-by
 
-- Copyright 2017 U.S. Federal Government (in countries where recognized) john.willman.1@us.af.mil
+- Copyright 2017 U.S. Federal Government (in countries where recognized) <john.willman.1@us.af.mil>
 - _Add the copyright date, your name, and email address here. (PLEASE KEEP THIS LINE)_
 
 ## Note for U.S. Federal Employees
